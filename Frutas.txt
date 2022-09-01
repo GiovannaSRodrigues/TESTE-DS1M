@@ -3,4 +3,5 @@ morango
 abacaxi
 melância
 banana
-maçã
+carambola
+pera 
