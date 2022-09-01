@@ -1,0 +1,6 @@
+uva
+morango
+abacaxi
+melância
+banana
+maçã
